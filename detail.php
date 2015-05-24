@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<?php include 'inc/head_common.php' ?>
-	<title>Workshops con BootStrap 3</title>
+	<title>Work Shop primero detalle</title>
 
 </head>
 <body>
