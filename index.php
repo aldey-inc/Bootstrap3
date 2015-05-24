@@ -8,7 +8,7 @@
 
 </head>
 <body>
-	<h1>bOOSTRAP EJEMPLO</h1>
+	<h1>Bootstrap Ejemplo</h1>
 	<p>Hola mundo.</p>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<!-- Latest compiled and minified JavaScript -->
