@@ -160,6 +160,28 @@
 				</div>
 			</div>
 		</section>
+		<section id="location-info">
+			<!-- 	mapa de google -->
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-5">
+						<h3>¿Necesitas alojamiento?</h3>
+						<div class="hotel">
+							<h4>Hotel 1</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum magni reiciendis ipsa labore, quasi autem, sequi corrupti, atque quia, illum ducimus iste! Blanditiis quod, alias officiis eaque voluptas laboriosam architecto.
+							</p>
+						</div>
+						<div class="hotel">
+							<h4>Hotel 2</h4>
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum magni reiciendis ipsa labore, quasi autem, sequi corrupti, atque quia, illum ducimus iste! Blanditiis quod, alias officiis eaque voluptas laboriosam architecto.
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 	</article>
 
 	<?php include 'inc/footer.php' ?>
