@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<?php include 'inc/head_common.php' ?>
+	<link rel="stylesheet" href="css/workshops.css">
 	<title>Workshops con BootStrap 3</title>
 
 </head>
@@ -13,13 +14,13 @@
 		<article id="w1" class="workshop workshop-left">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-8 main-info">
+					<div class="col-xs-6 main-info">
 						<h2> Desarrolla front-end like boss aprendiendo Bootstrap</h2>
 						<p>Disfruta de un fin de semana diferente aprendiendo con <a href="#">Yuliem Alavez</a> y <a href="#">Stephanie Sandoval</a></p>
 						<a href="detail.php" class="btn btn-custom">¡Me apunto!</a>
 						<a href="detail.php" class="more-info-link">Quiero más infromación</a>
 					</div>
-					<div class="col-xs-3 col-xs-offset-1 date-info">
+					<div class="col-xs-4 col-xs-offset-2 date-info">
 						<h3 class="highlighted"><strong> W21</strong> 1 y 2 de Julio</h3>
 						<h3 class="highlighted"> 20 lugares</h3>
 						<h3 class="highlighted"> 1000.00</h3>

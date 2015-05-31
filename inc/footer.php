@@ -1,3 +1,4 @@
+<footer>
 <div class="container">
 	<div class="row">
 		<div class="col-xs-5">
@@ -36,3 +37,4 @@
 		</div>
 	</div>
 </div>
+</footer>
