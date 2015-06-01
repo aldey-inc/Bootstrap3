@@ -23,7 +23,7 @@
 	
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-7">
+				<div class="col-xs-12 col-sm-7">
 					<section id="intro">
 						<h3>En este workshop aprenderas...</h3>
 						<p>
@@ -38,10 +38,10 @@
 					<section id="trainer-list">
 						<h3>Los formadores</h3>
 						<div class="trainer row">
-							<div class="col-xs-4">
+							<div class="col-xs-12 col-sm-4">
 								<img src="img/marcos_profile.png" alt="Marcos González">
 							</div>
-							<div class="col-xs-8">
+							<div class="col-xs-12 col-sm-8">
 								<h4>Marco González</h4>
 								<p>
 									Fundador y directo de [Q] eractiva <br />
@@ -53,10 +53,10 @@
 							</div>
 						</div>
 						<div class="trainer row">
-							<div class="col-xs-4">
+							<div class="col-xs-12 col-sm-4">
 								<img src="img/armando_profile.png" alt="Armando Broncas">
 							</div>
-							<div class="col-xs-8">
+							<div class="col-xs-12 col-sm-8">
 								<h4>Armando Broncas</h4>
 								<p>
 									Fundador y directo de [Q] eractiva <br />
@@ -69,7 +69,7 @@
 						</div>
 					</section>
 				</div>
-				<div class="col-xs-5">
+				<div class="col-xs-12 col-sm-5">
 					<section id="registration">
 						<h3>Registro</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda perferendis nemo deleniti magnam unde natus, sed aliquid voluptatum quod consectetur aliquam quis aut a tempore ratione fugiat, provident distinctio quam.
@@ -111,10 +111,10 @@
 		<section id="table-of-contents">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12">
+					<div class="col-xs-12 col-sm-4">
 						<h3>Indice de contenidos</h3>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-4">
 						<h4>1.- Framework front-end</h4>
 						<ul>
 							<li>Item 1</li>
@@ -123,7 +123,7 @@
 						</ul>
 
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-4">
 						<h4>2.- Framework segundo</h4>
 						<ul>
 							<li>Item 1</li>
@@ -132,7 +132,7 @@
 						</ul>
 
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-4">
 						<h4>3.- Framework ftercero</h4>
 						<ul>
 							<li>Item 1</li>
@@ -143,7 +143,7 @@
 						</ul>
 
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-4">
 						<h4>4.- Framework cuarto</h4>
 						<ul>
 							<li>Item 1</li>
@@ -158,7 +158,7 @@
 						</ul>
 
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-4 col-sm-4">
 						<h4>5.- Framework quinto</h4>
 						<ul>
 							<li>Item 1</li>
@@ -173,10 +173,10 @@
 		</section>
 		<section id="location-info">
 			<!-- 	mapa de google -->
-			<div id="map-canvas"></div>
+			<div id="map-canvas"  ></div>
 			<div class="container">
 				<div class="row">
-					<div id="hotel-info" class="col-xs-5">
+					<div id="hotel-info" class="col-xs-12 col-sm-5 col-sm-offset-2">
 						<h3>¿Necesitas alojamiento?</h3>
 						<div class="hotel">
 							<h4>Hotel 1</h4>
@@ -200,27 +200,30 @@
 					<div class="col-xs-12">
 						<h3>Preguntas frecuentes</h3>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-6 col-md-4">
 						<h4>Pregunta 1</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum in ullam placeat! Sed eveniet itaque aliquid quia quis tenetur ipsum corporis, deleniti quo distinctio? Saepe quis eum aperiam optio quas.</p>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-6 col-md-4">
 						<h4>Pregunta 2</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat reprehenderit, consequuntur harum, assumenda dicta quis architecto adipisci aliquam porro placeat accusantium sint id.</p>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-6 col-md-4">
 						<h4>Pregunta 3</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus atque temporibus, alias eum, sit tempora sapiente ipsa nulla nobis, aliquid facere magni aut repellat. Consequatur similique neque fugit dolor blanditiis.</p>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-6 col-md-4">
 						<h4>Pregunta 4</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla earum blanditiis alias perspiciatis libero, ratione laudantium! Culpa repellat reiciendis quo quisquam corrupti consequatur autem doloribus. Quis suscipit cupiditate voluptatibus nihil.</p>
 					</div>
-					<div class="col-xs-4">
+					<div class="clearfix hidden-md hidden-lg">
+						
+					</divv>
+					<div class="col-xs-12 col-sm-6 col-md-4">
 						<h4>Pregunta 5</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus enim blanditiis, qui soluta asperiores iusto ipsum tenetur esse nihil nulla minus officia provident atque rem veritatis beatae necessitatibus ab! In.</p>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-6 col-md-4">
 						<h4>Pregunta 6</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur fugiat quos neque voluptatibus commodi at veniam, aliquid id doloribus iste soluta deserunt eligendi ipsam quae eum, incidunt autem nisi. Quaerat!</p>
 					</div>
